@@ -1,0 +1,25 @@
+{"_id":{"$oid":"5ecc01482f934d47dc06f48c"},"oib":8.792027242E+10,"ime":"Slobodan","prezime":"Ribarić","kolegiji":[{"isvu_sifra":92978.0,"naziv":"Građa računala"}]}
+{"_id":{"$oid":"5ecc01482f934d47dc06f48d"},"oib":2.0335798653E+10,"ime":"Saša","prezime":"Singer","kolegiji":[{"isvu_sifra":92979.0,"naziv":"Oblikovanje i analiza algoritama"},{"isvu_sifra":36901.0,"naziv":"Programiranje 1"},{"isvu_sifra":36903.0,"naziv":"Programiranje 2"}]}
+{"_id":{"$oid":"5ecc01482f934d47dc06f48e"},"oib":2.6559220386E+10,"ime":"Luka","prezime":"Grubišić","kolegiji":[{"isvu_sifra":45688.0,"naziv":"Umjetna inteligencija"},{"isvu_sifra":92949.0,"naziv":"Mreže računala"}]}
+{"_id":{"$oid":"5ecc01482f934d47dc06f48f"},"oib":8.3712854685E+10,"ime":"Mladen","prezime":"Vuković","kolegiji":[{"isvu_sifra":45689.0,"naziv":"Matematička logika"}]}
+{"_id":{"$oid":"5ecc01482f934d47dc06f490"},"oib":3.9259887219E+10,"ime":"Leonardo","prezime":"Jelenković","kolegiji":[{"isvu_sifra":45691.0,"naziv":"Operacijski sustavi"}]}
+{"_id":{"$oid":"5ecc01482f934d47dc06f491"},"oib":6.2396901802E+10,"ime":"Marko","prezime":"Horvat","kolegiji":[{"isvu_sifra":61519.0,"naziv":"Interpretacija programa"}]}
+{"_id":{"$oid":"5ecc01482f934d47dc06f492"},"oib":5.8672041093E+10,"ime":"Robert","prezime":"Manger","kolegiji":[{"isvu_sifra":45693.0,"naziv":"Baze podataka"},{"isvu_sifra":24206.0,"naziv":"Strukture podataka i algoritmi"}]}
+{"_id":{"$oid":"5ecc01482f934d47dc06f493"},"oib":7.9820572417E+10,"ime":"Mladen","prezime":"Jurak","kolegiji":[{"isvu_sifra":45694.0,"naziv":"Objektno programiranje"}]}
+{"_id":{"$oid":"5ecc01482f934d47dc06f494"},"oib":7.18629987E+09,"ime":"Zvonimir","prezime":"Bujanović","kolegiji":[{"isvu_sifra":45595.0,"naziv":"Računarski praktikum 2"},{"isvu_sifra":21504.0,"naziv":"Elementarna matematika 1"},{"isvu_sifra":21518.0,"naziv":"Elementarna matematika 2"}]}
+{"_id":{"$oid":"5ecc01482f934d47dc06f495"},"oib":2.5534233659E+10,"ime":"Vedran","prezime":"Krčadinac","kolegiji":[{"isvu_sifra":45696.0,"naziv":"Kombinatorika"}]}
+{"_id":{"$oid":"5ecc01482f934d47dc06f496"},"oib":7.4869409866E+10,"ime":"Marko","prezime":"Vrdoljak","kolegiji":[{"isvu_sifra":45704.0,"naziv":"Operacijska istraživanja"}]}
+{"_id":{"$oid":"5ecc01482f934d47dc06f497"},"oib":2.4846031037E+10,"ime":"Tina","prezime":"Bosner","kolegiji":[{"isvu_sifra":92953.0,"naziv":"Računalna grafika"}]}
+{"_id":{"$oid":"5ecc01482f934d47dc06f498"},"oib":4.3510326714E+10,"ime":"Juraj","prezime":"Šiftar","kolegiji":[{"isvu_sifra":92955.0,"naziv":"Konačne geometrije"}]}
+{"_id":{"$oid":"5ecc01482f934d47dc06f499"},"oib":1.4824362269E+10,"ime":"Boris","prezime":"Guljaš","kolegiji":[{"isvu_sifra":21498.0,"naziv":"Matematička analiza 1"},{"isvu_sifra":21508.0,"naziv":"Matematička analiza 2"}]}
+{"_id":{"$oid":"5ecc01482f934d47dc06f49a"},"oib":3.4641126097E+10,"ime":"Damir","prezime":"Bakić","kolegiji":[{"isvu_sifra":21501.0,"naziv":"Linearna algebra 1"},{"isvu_sifra":21515.0,"naziv":"Linearna algebra 2"}]}
+{"_id":{"$oid":"5ecc01482f934d47dc06f49b"},"oib":9.188990072E+10,"ime":"Zoran","prezime":"Vondraček","kolegiji":[{"isvu_sifra":36905.0,"naziv":"Vjerojatnost"}]}
+{"_id":{"$oid":"5ecc01482f934d47dc06f49c"},"oib":2.23595997E+09,"ime":"Marcela","prezime":"Hanzer","kolegiji":[{"isvu_sifra":36904.0,"naziv":"Diskretna matematika"},{"isvu_sifra":31425.0,"naziv":"Algebarske strukture"}]}
+{"_id":{"$oid":"5ecc01482f934d47dc06f49d"},"oib":2.1309038219E+10,"ime":"Andrej","prezime":"Dujella","kolegiji":[{"isvu_sifra":92892.0,"naziv":"Teorija brojeva"}]}
+{"_id":{"$oid":"5ecc01482f934d47dc06f49e"},"oib":8.0617845652E+10,"ime":"Mirko","prezime":"Polonijo","kolegiji":[{"isvu_sifra":36928.0,"naziv":"Modeli geometrije"},{"isvu_sifra":33453.0,"naziv":"Euklidski prostori"}]}
+{"_id":{"$oid":"5ecc01482f934d47dc06f49f"},"oib":7.0734762125E+10,"ime":"Goran","prezime":"Muić","kolegiji":[{"isvu_sifra":36911.0,"naziv":"Vektorski prostori"}]}
+{"_id":{"$oid":"5ecc01482f934d47dc06f4a0"},"oib":5.9573393871E+10,"ime":"Vjeran","prezime":"Hari","kolegiji":[{"isvu_sifra":36920.0,"naziv":"Iterativne metode"}]}
+{"_id":{"$oid":"5ecc01482f934d47dc06f4a1"},"oib":3.2888028857E+10,"ime":"Vjekoslav","prezime":"Kovač","kolegiji":[{"isvu_sifra":36921.0,"naziv":"Markovljevi lanci"},{"isvu_sifra":33220.0,"naziv":"Mjera i integral"}]}
+{"_id":{"$oid":"5ecc01482f934d47dc06f4a2"},"oib":1.6038302162E+10,"ime":"Željko","prezime":"Skoko","kolegiji":[{"isvu_sifra":31418.0,"naziv":"Fizika 1"},{"isvu_sifra":31419.0,"naziv":"Fizika 2"}]}
+{"_id":{"$oid":"5ecc01482f934d47dc06f4a3"},"oib":6.788793731E+09,"ime":"Pavle","prezime":"Goldstein","kolegiji":[{"isvu_sifra":31422.0,"naziv":"Bioinformatika"}]}
+{"_id":{"$oid":"5ecc01482f934d47dc06f4a4"},"oib":5.6901033968E+10,"ime":"Siniša","prezime":"Slijepčević","kolegiji":[{"isvu_sifra":97015.0,"naziv":"Statistika"}]}
